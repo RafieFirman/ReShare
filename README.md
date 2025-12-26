@@ -8,7 +8,7 @@ Dengan kehadiran ReShare diharapkan dapat membantu saudara kita yang membutuhkan
 - Back end : PHP
 - Database : Sql
 
-- Website ini bisa di akses di : [reshare.my.id](reshare.my.id)
+- Website ini bisa di akses di : [reshare.my.id](https://reshare.my.id/reshare/frontend/index.php)
 
 ## Fitur
 - Registrasi & Login
